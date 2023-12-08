@@ -1,2 +1,3 @@
-# NAME:
-# STUDENT ID:
+# NAME: กฤษฏิ์ศรัล กันติ๊บ
+# STUDENT ID: 660610740
+ 
